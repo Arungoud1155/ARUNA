@@ -1,3 +1,4 @@
 ""
 this is supporting app for src and docs
 ""
+int main()
